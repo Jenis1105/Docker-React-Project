@@ -17,7 +17,7 @@
     "react-dom": "^18.3.1"
   },
   "husky": {
-    "hooks":      {
+    "hooks": {
       "pre-commit": "yarn precommit"
     }
   },
