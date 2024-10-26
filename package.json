@@ -8,11 +8,9 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "preview": "vite preview"
     "preview": "vite preview",
     "test": "echo \"No test specified\" && exit 0",
-    "prepare": "husky install",
-    "format": "prettier --write ."
+    "prepare": "husky install"
   },
   "dependencies": {
     "react": "^18.3.1",
