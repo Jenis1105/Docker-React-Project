@@ -12,7 +12,12 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
 - Configure the top-level `parserOptions` property like this:
+<<<<<<< HEAD
   qqqqqqqqqqqqqq
+=======
+
+//husky test
+>>>>>>> e6b6bc7b0a0b9d4010fa86203ab245f913bdea2c
 
 ```js
 export default tseslint.config({
